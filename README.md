@@ -3,5 +3,7 @@ I’m a data scientist with a Bachelor’s degree in Communication Engineering. 
 ## Education
 #### The British University in Egypt
 Major: Communication Engineering
+2016-2021 | cairo, Egypt
+
 ## Projects
 
