@@ -13,7 +13,11 @@ This project aimed to analyze the sales performance data. The goal was to identi
 
 problems answered in this project:
 1-which month has the highest sales ?
+
 2-which city has the maximum order ?
+
 3-what product sold the most ?
+
 4-The trend off the most sold product
+
 5-what products are most often sold together ?
