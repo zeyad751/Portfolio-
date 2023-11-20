@@ -7,5 +7,5 @@ Major: Communication Engineering
 
 ## Projects:
 #### Sales data analysis (E-commerce Case-Study):
-[pupication](https://github.com/zeyad751/zeayd-projects/blob/f9b53c2c5520765a99e7f9ac784e359402d245bf/Sales%20analysis%20.ipynb)
+[puplication](https://github.com/zeyad751/zeayd-projects/blob/f9b53c2c5520765a99e7f9ac784e359402d245bf/Sales%20analysis%20.ipynb)
 
