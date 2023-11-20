@@ -19,6 +19,6 @@ problems answered in this project:
 
 3-what product sold the most ?
 
-4-The trend off the most sold product
+4-The trend of the most sold product
 
 5-what products are most often sold together ?
