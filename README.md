@@ -7,5 +7,12 @@ Major: Communication Engineering
 
 ## Projects:
 #### Sales data analysis (E-commerce Case-Study):
-[puplication](https://github.com/zeyad751/zeayd-projects/blob/f9b53c2c5520765a99e7f9ac784e359402d245bf/Sales%20analysis%20.ipynb)
+link:[sales data analysis](https://github.com/zeyad751/zeayd-projects/blob/f9b53c2c5520765a99e7f9ac784e359402d245bf/Sales%20analysis%20.ipynb)
+This project aimed to analyze the sales performance data. The goal was to identify trends, patterns, and insights from sales data to drive strategic decision-making and optimize sales straregies.
 
+problems answered in this project:
+1-which month has the highest sales ?
+2-which city has the maximum order ?
+3-what product sold the most ?
+4-The trend off the most sold product
+5-what products are most often sold together ?
