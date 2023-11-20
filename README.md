@@ -12,6 +12,7 @@ link:[sales data analysis](https://github.com/zeyad751/zeayd-projects/blob/f9b53
 This project aimed to analyze the sales performance data. The goal was to identify trends, patterns, and insights from sales data to drive strategic decision-making and optimize sales straregies.
 
 problems answered in this project:
+
 1-which month has the highest sales ?
 
 2-which city has the maximum order ?
