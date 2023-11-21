@@ -39,3 +39,6 @@ Analysis made:
 4-Resampling Analysis
 
 5-Co-relation Analysis
+
+#### Sports wear case study
+link: [sports wear case study]
