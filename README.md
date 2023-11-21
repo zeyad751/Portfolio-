@@ -1,5 +1,6 @@
 # Data scientist / Data analyst
 I’m a data scientist with a Bachelor’s degree in Communication Engineering. The background in engineering has helped me gain expertise in Mathematics, Database systems, Programming languages and Artificial intelligence. I believe in drawing insights from data and using statistical principles to make critical business decisions. I have extensive project strategy experience and can communicate well to technical and non-technical audiences. Proficient at manipulating data and applying machine learning to several domains. I have deployed models and pipelines for projects in real estate, operations and health care using Python, SQL, Git and data visualizations tools as Tableau.
+
 ## Education:
 #### The British University in Egypt
 Major: Communication Engineering
@@ -40,5 +41,7 @@ Analysis made:
 
 5-Co-relation Analysis
 
-#### Sports wear case study
-link: [sports wear case study]
+#### Predecting customer buying behavior (Sports wear case study)
+link: [sports wear case study] (https://github.com/zeyad751/zeayd-projects/blob/2f629369407c7b4b07dcd6d321892a80449b833a/sports%20wear%20Case%20Study%20.ipynb)
+
+This project was about analyzing the marketing data for sports wear group which is one of the leading retailers industry in the region. The goal was to build a machine learning model to predict whether a customer will buy or not to help the marketing team in increasing its efficiency and that may increase the sales.
