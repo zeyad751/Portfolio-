@@ -25,3 +25,17 @@ problems answered in this project:
 
 #### Time series data analysis (Stock Market case-study)
 link:[Stock data analysis](https://github.com/zeyad751/zeayd-projects/blob/cfe5775773f1643c74e67326b9186527a0393f64/Stock%20analysis%20.ipynb)
+
+This project ivolved analyzing historical stock market data for big companies such as Microsoft, Apple and Google. The goal was to identify patterns and trends from stock data and perform corelation analysis.
+
+Analysis made:
+
+1-Analysing change in price of the stock overtime
+
+2-Analysing moving average of the various stocks 
+
+3-Analysing Closing price change in various stocks
+
+4-Resampling Analysis
+
+5-Co-relation Analysis
