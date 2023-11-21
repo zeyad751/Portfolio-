@@ -22,3 +22,6 @@ problems answered in this project:
 4-The trend of the most sold product
 
 5-what products are most often sold together ?
+
+#### Time series data analysis (Stock Market case-study)
+link:[Time series data analysis]()
