@@ -24,4 +24,4 @@ problems answered in this project:
 5-what products are most often sold together ?
 
 #### Time series data analysis (Stock Market case-study)
-link:[Time series data analysis](https://github.com/zeyad751/zeayd-projects/blob/cfe5775773f1643c74e67326b9186527a0393f64/Stock%20analysis%20.ipynb)
+link:[Stock data analysis](https://github.com/zeyad751/zeayd-projects/blob/cfe5775773f1643c74e67326b9186527a0393f64/Stock%20analysis%20.ipynb)
