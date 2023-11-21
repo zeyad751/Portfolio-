@@ -7,7 +7,7 @@ Major: Communication Engineering
 
 ## Projects:
 #### Sales data analysis (E-commerce Case-Study):
-link:[sales data analysis](https://github.com/zeyad751/zeayd-projects/blob/f9b53c2c5520765a99e7f9ac784e359402d245bf/Sales%20analysis%20.ipynb)
+link: [sales data analysis] (https://github.com/zeyad751/zeayd-projects/blob/db620eba77b31ea4c98f80bac07cc629d3dbc924/Sales%20analysis%20.ipynb)
 
 This project aimed to analyze the sales performance data. The goal was to identify trends, patterns, and insights from sales data to drive strategic decision-making and optimize sales straregies.
 
@@ -24,7 +24,7 @@ problems answered in this project:
 5-what products are most often sold together ?
 
 #### Time series data analysis (Stock Market case-study)
-link:[Stock data analysis](https://github.com/zeyad751/zeayd-projects/blob/cfe5775773f1643c74e67326b9186527a0393f64/Stock%20analysis%20.ipynb)
+link: [Stock data analysis] (https://github.com/zeyad751/zeayd-projects/blob/cfe5775773f1643c74e67326b9186527a0393f64/Stock%20analysis%20.ipynb)
 
 This project ivolved analyzing historical stock market data for big companies such as Microsoft, Apple and Google. The goal was to identify patterns and trends from stock data and perform corelation analysis.
 
