@@ -47,4 +47,6 @@ link:[Sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/09
 This project was about analyzing the marketing data for sports wear group which is one of the leading retailers industry in the region. The goal was to build a machine learning model to predict whether a customer will buy or not to help the marketing team in increasing its efficiency and that may increase the sales.
 
 #### Detecting Real estate prices
-link [Real estate case study]()
+link [Real estate case study](https://github.com/zeyad751/zeayd-projects/blob/37f5b8eb1ff8d8f3b628bb5c3d4f1e8cbf79dd14/House_Sales_in_King_Count_USA.ipynb)
+
+The goal of this case study was analyzing the House sales data of king count in usa and then bulid a machine learning model that can predicts the houses prices in that area. Building that model can help organizations and individuals making investment decisions.
