@@ -24,6 +24,11 @@ problems answered in this project:
 
 5-what products are most often sold together ?
 
+#### Predecting customer buying behavior (Sports wear case study)
+link:[Sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/09110a4b27121835624805637f04c35d9bcd04de/sports%20wear%20Case%20Study%20.ipynb)
+
+This project was about analyzing the marketing data for sports wear group which is one of the leading retailers industry in the region. The goal was to build a machine learning model to predict whether a customer will buy or not to help the marketing team in increasing its efficiency and that may increase the sales.
+
 #### Time series data analysis (Stock Market case-study)
 link:[Stock data analysis](https://github.com/zeyad751/zeayd-projects/blob/cfe5775773f1643c74e67326b9186527a0393f64/Stock%20analysis%20.ipynb)
 
@@ -41,10 +46,6 @@ Analysis made:
 
 5-Co-relation Analysis
 
-#### Predecting customer buying behavior (Sports wear case study)
-link:[Sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/09110a4b27121835624805637f04c35d9bcd04de/sports%20wear%20Case%20Study%20.ipynb)
-
-This project was about analyzing the marketing data for sports wear group which is one of the leading retailers industry in the region. The goal was to build a machine learning model to predict whether a customer will buy or not to help the marketing team in increasing its efficiency and that may increase the sales.
 
 #### Detecting Real estate prices
 link [Real estate case study](https://github.com/zeyad751/zeayd-projects/blob/37f5b8eb1ff8d8f3b628bb5c3d4f1e8cbf79dd14/House_Sales_in_King_Count_USA.ipynb)
