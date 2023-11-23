@@ -42,6 +42,6 @@ Analysis made:
 5-Co-relation Analysis
 
 #### Predecting customer buying behavior (Sports wear case study)
-link:[sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/2f629369407c7b4b07dcd6d321892a80449b833a/sports%20wear%20Case%20Study%20.ipynb)
+link:[Sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/09110a4b27121835624805637f04c35d9bcd04de/sports%20wear%20Case%20Study%20.ipynb)
 
 This project was about analyzing the marketing data for sports wear group which is one of the leading retailers industry in the region. The goal was to build a machine learning model to predict whether a customer will buy or not to help the marketing team in increasing its efficiency and that may increase the sales.
