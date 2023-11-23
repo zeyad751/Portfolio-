@@ -27,7 +27,7 @@ problems answered in this project:
 5-what products are most often sold together ?
 
 ### Predecting customer buying behavior (Sports wear case study)
-![customer buying behavior](Customer Behavior.png)
+![customer](Customer Behavior.png)
 
 link:[Sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/09110a4b27121835624805637f04c35d9bcd04de/sports%20wear%20Case%20Study%20.ipynb)
 
