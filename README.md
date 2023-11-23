@@ -7,7 +7,7 @@ Major: Communication Engineering
 2016-2021 | cairo, Egypt
 
 ## Projects:
-### Sales data analysis (E-commerce Case-Study):
+### Sales data analysis (E-commerce Case-Study)
 ![sales](Sales.png)
 
 link:[sales data analysis](https://github.com/zeyad751/zeayd-projects/blob/db620eba77b31ea4c98f80bac07cc629d3dbc924/Sales%20analysis%20.ipynb)
@@ -27,7 +27,7 @@ problems answered in this project:
 5-what products are most often sold together ?
 
 ### Predecting customer buying behavior (Sports wear case study)
-![customer](Customer Behavior.png)
+![Customer Behavior](Customer Behavior.png)
 
 link:[Sports wear case study](https://github.com/zeyad751/zeayd-projects/blob/09110a4b27121835624805637f04c35d9bcd04de/sports%20wear%20Case%20Study%20.ipynb)
 
