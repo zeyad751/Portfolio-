@@ -7,7 +7,7 @@ Major: Communication Engineering
 2016-2021 | cairo, Egypt
 
 ## Projects:
-#### Sales data analysis (E-commerce Case-Study):
+### Sales data analysis (E-commerce Case-Study):
 ![sales](https://github.com/zeyad751/Portfolio-/blob/a654924f6b7933530e175c7478d3fbe2418432a8/Sales.png)
 link:[sales data analysis](https://github.com/zeyad751/zeayd-projects/blob/db620eba77b31ea4c98f80bac07cc629d3dbc924/Sales%20analysis%20.ipynb)
 
