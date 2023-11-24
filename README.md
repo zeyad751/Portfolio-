@@ -58,4 +58,4 @@ Analysis made:
 
 link [Real estate case study](https://github.com/zeyad751/zeayd-projects/blob/e4c04520062b6996dfaf7dcd7d4abcc13b43df38/House_Sales_in_King_Count_USA_jupyterlite%20.ipynb)
 
-The goal of this case study was analyzing the House sales data of king count in usa and then bulid a machine learning model that can predicts the houses prices in that area. Building that model can help organizations and individuals making investment decisions.
+The goal of this case study was analyzing the House sales data of king count in usa and then build a machine learning model that can predicts the houses prices in that area. Building that model can help organizations and individuals making investment decisions.
